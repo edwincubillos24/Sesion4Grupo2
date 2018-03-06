@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sesion4Grupo2</string>
+    <string name="pract">60 %</string>
+    <string name="calcular">Calcular</string>
+    <string name="total">Total</string>
+    <string name="proy">20%</string>
+    <string name="avance">20%</string>
+    <string name="configurar">Configuración</string>
+    <string name="guardar">Guardar</string>
+</resources>
